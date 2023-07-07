@@ -1,1 +1,2 @@
-/task_6/.idea/
+*/.idea/
+*/cmake-build-debug/

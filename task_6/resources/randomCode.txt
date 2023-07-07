@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+void randomCode() {
+   unsigned int counter = 0;
+   int a = 0;
+   int b = 10;
+
+   a = 0;
+   while (a < b) {
+      counter++;
+      a++;
+   }
+
+   printf("Random code have counted to 10!\n");
+}
